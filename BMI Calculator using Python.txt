@@ -1,0 +1,19 @@
+BMI Calculator using Python
+
+Description:
+This project calculates Body Mass Index (BMI) using weight and height entered by the user.
+
+Features:
+- Takes user input
+- Calculates BMI
+- Shows BMI category
+- Beginner-friendly project
+
+Technology Used:
+- Python
+
+How to Run:
+Run the Python file in IDLE using F5.
+
+Author:
+Kruthika Ankam
