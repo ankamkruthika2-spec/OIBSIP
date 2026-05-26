@@ -1,0 +1,26 @@
+Chat Application using Python
+
+Description:
+This is a beginner-level chat application developed using Python sockets. It allows communication between a server and a client on the same computer.
+
+Features:
+- Server and client communication
+- Sends and receives messages
+- Simple real-time chat
+- Beginner-friendly project
+
+Technologies Used:
+- Python
+- socket module
+
+Files Included:
+- server.py
+- client.py
+
+How to Run:
+1. Open and run server.py first
+2. Open and run client.py in another IDLE window
+3. Start chatting between server and client
+
+Author:
+Kruthika Ankam
