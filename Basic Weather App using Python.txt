@@ -1,0 +1,25 @@
+Basic Weather App using Python
+
+Description:
+This project is a beginner-level weather application developed using Python. It fetches current weather information for a user-entered city using a weather API.
+
+Features:
+- Takes city name as input
+- Displays temperature
+- Shows humidity
+- Displays weather condition
+- Beginner-friendly project
+
+Technologies Used:
+- Python
+- requests module
+- Weather API
+
+How to Run:
+1. Open the Python file in IDLE
+2. Press F5 to run the program
+3. Enter city name
+4. View weather details
+
+Author:
+Kruthika Ankam
